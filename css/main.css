@@ -1,0 +1,42 @@
+.main_column{
+    display: flex;
+    justify-content: center;
+}
+.main_column .nameQues{
+    font-family: 'Pacifico', cursive;
+    text-align: center;
+    border: none;
+    background-color: rgb(243, 241, 241);
+    opacity: .8;
+    font-size: 35px;
+    outline: none;
+}
+.main_name{
+    display: flex;
+    justify-content: center;
+    font-size: 30px;
+}
+
+.main_toDo{
+    display: flex;
+    justify-content: center;
+}
+
+.left-img{
+    position: absolute;
+    top:0;
+    left: 0;
+    width: 50%;
+    height: 100%;
+    z-index: -1;
+    opacity: .8;
+}
+.right-img{
+    position: absolute;
+    top:0;
+    right: 0;
+    width: 50%;
+    height: 100%;
+    z-index: -1;
+    opacity: .75;
+}

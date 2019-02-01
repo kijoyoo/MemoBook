@@ -1,0 +1,42 @@
+.header_column{
+    display: flex;
+    justify-content: space-between;
+    font-weight: 500;
+    margin-top: 5px;
+    margin-bottom: 400px;
+}
+
+.header_column .header-main{
+    display: flex;
+    font-family: 'Pacifico', cursive;
+    color: rgb(76, 76, 77);
+    font-size: 25px;
+    margin-left: 20px;
+}
+
+.header_column .d-day{
+    color: rgb(243, 17, 156);
+    margin-left: 10px;
+    margin-top: 10px;
+    font-family: 'Dancing Script', cursive;
+    font-size: 25px;
+    font-weight: 600;
+    text-decoration: underline;
+}
+
+.header_column .header-weather{
+    font-family: 'Pacifico', cursive;
+    margin-right: 10px;
+    font-size: 15px;
+    font-weight: 500;
+    color: rgb(57, 57, 58);
+}
+
+.header-clock{
+    font-family: 'Pacifico', cursive;
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 60px;
+    font-weight: 600;
+    color: rgb(140, 140, 143);   
+}
