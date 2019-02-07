@@ -12,6 +12,7 @@
     outline: none;
 }
 .main_name{
+    font-family: 'Pacifico', cursive;
     display: flex;
     justify-content: center;
     font-size: 30px;
@@ -39,4 +40,13 @@
     height: 100%;
     z-index: -1;
     opacity: .75;
+}
+
+.delete {
+    display: none;
+}
+
+.showing{
+    display: flex;
+    justify-content: center;
 }
