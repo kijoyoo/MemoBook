@@ -3,7 +3,7 @@
     justify-content: space-between;
     font-weight: 500;
     margin-top: 5px;
-    margin-bottom: 400px;
+    margin-bottom: 250px;
 }
 
 .header_column .header-main{
@@ -35,7 +35,7 @@
 .header-clock{
     font-family: 'Pacifico', cursive;
     text-align: center;
-    margin-bottom: 20px;
+    margin-bottom: 3px;
     font-size: 60px;
     font-weight: 600;
     color: rgb(140, 140, 143);   
